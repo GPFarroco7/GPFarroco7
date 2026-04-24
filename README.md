@@ -22,7 +22,7 @@ Profissional com background em **Comunicação Social (ESPM-SP)** e transição 
 
 ---
 
-## 🗂️ Projetos em Destaque
+## 🗂️ Projetos que realizei
 
 | Projeto | Descrição | Stack |
 |---|---|---|
@@ -33,14 +33,14 @@ Profissional com background em **Comunicação Social (ESPM-SP)** e transição 
 
 ---
 
-## 📊 Formação
+## 📊 Formação Acadêmica
 
 - 🎓 **Ciência de Dados** — FIAP São Paulo *(em andamento)*
 - 🎓 **Comunicação Social — Publicidade e Propaganda** — ESPM-SP
 
 ---
 
-## 📫 Contato
+## 📫 Como me contatar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-farroco/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1A6B72?style=flat&logo=google-chrome&logoColor=white)](https://sites.google.com/view/portfolio-guilherme-farroco)
