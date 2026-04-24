@@ -29,7 +29,7 @@ Profissional com background em **Comunicação Social (ESPM-SP)** e transição 
 | [**Unravel.IQ**](https://github.com/GPFarroco7/unraveliq) | Solução analítica para ClickBus com segmentação RFM, previsão de recompra e dashboard interativo | MongoDB · Scikit-Learn · Streamlit |
 | [**Melhores Compras**](https://github.com/GPFarroco7/melhores-compras-db) | Banco de dados relacional + análise estatística de frequência do SAC | Oracle SQL · PL/SQL · Pandas · Seaborn |
 | [**GeoFire Alert**](https://github.com/GPFarroco7/geofire-alert) | Arquitetura de dados para sistema de alertas de incêndio geoespaciais | Data Architecture · Pipeline Design |
-| [**EDA MovieLens**](https://github.com/GPFarroco7/eda-movielens) | Análise exploratória de dataset de avaliações de filmes | Pandas · Matplotlib · Seaborn |
+| [**EDA MovieLens**](https://github.com/GPFarroco7/eda-movielens-tmdb) | Análise exploratória de dataset de avaliações de filmes | Pandas · Matplotlib · Seaborn |
 
 ---
 
