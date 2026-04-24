@@ -42,6 +42,6 @@ Profissional com background em **Comunicação Social (ESPM-SP)** e transição 
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-farroco/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-farroco/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1A6B72?style=flat&logo=google-chrome&logoColor=white)](https://sites.google.com/view/portfolio-guilherme-farroco)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Gfarroco@gmail.com)
